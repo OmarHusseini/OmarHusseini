@@ -1,5 +1,5 @@
-Hi, I'm [Omar Hosseini]! 👋
-<p align=center>Welcome to my GitHub profile! I'm passionate about [developing my technical and technological skills] and have a strong interest in back-end development. Here you'll find a project I worked on, which is my graduation project.</p>
+
+<p align=center> Hi, I'm [Omar AlHusseini]! <br> 👋 Welcome to my GitHub profile! I'm passionate about [developing my technical and technological skills] and have a strong interest in back-end development. Here you'll find a project I worked on, which is my graduation project.</p>
 
 
 ## 🎓 About Me  
