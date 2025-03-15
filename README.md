@@ -6,7 +6,6 @@ Hi, I'm [Omar Hosseini]! 👋
 - **Computer Engineering** graduate from **Al-Quds University**.  
 - Proud **Erasmus Scholarship** participant at **Mälardalen University**.  
 - Trained in **Penetration Testing** at **Zero One Company**.  
-- Full-Stack Developer with a passion for web development and cybersecurity
 
 - ## 🌱 What I’m currently learning  
 I’m eager to master a wide range of programming languages and technologies that will help me grow from a **Full-Stack Developer in the making** to a **creative, skilled, and versatile engineer**.  
@@ -14,7 +13,6 @@ I’m eager to master a wide range of programming languages and technologies tha
 - 💻 **Frontend Frameworks** — React, Next.js, and modern UI/UX techniques.  
 - 🔧 **Backend Technologies** — Node.js, Express, and database handling with SQL & MongoDB.  
 - 🚀 **Advanced Topics** — APIs, performance optimization, and cloud deployment.  
-- 🔒 **Security & DevOps** — Secure coding practices, Docker, CI/CD pipelines.  
 
 
 
