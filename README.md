@@ -1,6 +1,6 @@
 Hi, I'm [Omar Hosseini]! 👋
+<p align=center>Welcome to my GitHub profile! I'm passionate about [developing my technical and technological skills] and have a strong interest in back-end development. Here you'll find a project I worked on, which is my graduation project.</p>
 
-Welcome to my GitHub profile! I'm passionate about [developing my technical and technological skills] and have a strong interest in back-end development. Here you'll find a project I worked on, which is my graduation project.
 
 ## 🎓 About Me  
 - **Computer Engineering** graduate from **Al-Quds University**.  
@@ -26,6 +26,19 @@ I’m eager to master a wide range of programming languages and technologies tha
 
 ## 🚀 Projects  
 [💻 Explore My Projects on Google Drive](https://drive.google.com/drive/u/1/folders/1vs5WG9r3pQJ8Fa45lYI2Y_8VLDFzZbsS)  
+
+
+## 🛠️ Technologies & Tools
+<p align=center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+</p>
+
 
 ## 📬 Keep in Touch  
 - 📱 **Phone:** +970 592 752 848  
